@@ -1,0 +1,8 @@
+pip install pytesseract
+pip install pdf2image
+pip install -U transformers==4.45.2 vllm==0.6.3 
+pip install torch==2.4.1 torchvision==0.19.1 torchaudio==2.4.1
+pip install nvidia-ml-py
+pip install qwen-vl-utils
+apt-get install poppler-utils
+apt-get install tesseract-ocr
